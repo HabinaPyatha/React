@@ -6,6 +6,9 @@ body{
   padding:0;
   background:#F5F0F8;
 }
+.container {
+    margin: 45px 40px;
+}
 header{
   display:flex;
   justify-content:center;
